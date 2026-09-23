@@ -1,0 +1,9 @@
+{
+  "name": "logistics-hub-saas",
+  "version": "5.4.0",
+  "private": true,
+  "description": "Production Ready Logistics SaaS with Persistent Supabase Deletions",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
